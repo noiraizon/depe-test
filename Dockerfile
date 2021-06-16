@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.14.0
 
 # Install dependent packages
 RUN apk --update add \
